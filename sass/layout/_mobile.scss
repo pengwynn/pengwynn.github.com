@@ -82,7 +82,7 @@ $side   : $total-columns - $anchor;
 //-----------------------------------------------------------
 
 .branding {
-  @include padding-leader;
+  padding-top: 40px;
   text-align: center;
 }
 

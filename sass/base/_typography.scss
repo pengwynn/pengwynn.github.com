@@ -1,12 +1,12 @@
 @include establish-baseline;
 
 @font-face {
-  font-family: 'Entypo-Social';
-  src: url('/fonts/entypo-social.eot');
-  src: url('/fonts/entypo-social.eot' + '?#iefix') format('embedded-opentype'),
-       url('/fonts/entypo-social.woff') format('woff'),
-       url('/fonts/entypo-social.ttf') format('truetype'),
-       url('/fonts/entypo-social.svg' + '#DroidSansRegular') format('svg');
+  font-family: 'pengwynn';
+  src:url('/fonts/pengwynn.eot');
+  src:url('/fonts/pengwynn.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/pengwynn.svg#pengwynn') format('svg'),
+    url('/fonts/pengwynn.woff') format('woff'),
+    url('/fonts/pengwynn.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -31,7 +31,13 @@ dt {
 }
 
 .branding {
-  margin-top: 6em;
+  font-family: 'pengwynn', sans-serif;
+  font-size: 120px;
+  line-height: 1.2em;
+  a {
+    display: block;
+    text-decoration: none;
+  }
 }
 
 .lead {
@@ -70,13 +76,10 @@ hr {
 }
 
 .social-links a {
-  font-family: 'Entypo-Social', sans-serif;
-  font-size: 50px;
+  font-family: 'pengwynn', sans-serif;
+  font-size: 40px;
   line-height: 50px;
-  height: 50px;
-  width: 50px;
   text-decoration: none;
-  padding: 0 20px;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -162,5 +165,9 @@ p {
 
   .lead {
     font-size: 1.45em;
+  }
+
+  .social-links a {
+    padding: 0 20px;
   }
 }
