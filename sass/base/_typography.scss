@@ -21,7 +21,7 @@ dt {
 
 
 .site-footer {
-  @include adjust-font-size-to(14px);
+  @include adjust-font-size-to(10px);
   color: lighten($color-text, 20%);
   font-family: $face-sans;
   text-align: center;
