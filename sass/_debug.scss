@@ -1,0 +1,29 @@
+.debug {
+
+  .page:before {
+    color: lighten($color-text, 60%);
+    position: absolute;
+    right: 5px;
+    text-transform: uppercase;
+    top: 5px;
+  }
+
+  @include at-breakpoint($desktop-layout) {
+    .page:before {
+      content: 'desktop';
+    }
+  }
+
+  @include at-breakpoint($wide-layout) {
+    .page:before {
+      content: 'wide';
+    }
+  }
+
+  &.headings-only {
+    .container {
+      p, ul, ol, dl, pre, blockquote {display: none}
+      #{headings} { display: block }
+    }
+  }
+}

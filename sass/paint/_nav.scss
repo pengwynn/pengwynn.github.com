@@ -1,0 +1,23 @@
+#mobile-nav li a {
+  @include link-colors(#ddd, #fff, $color-link-active, #ddd);
+  display: block;
+  text-decoration: none;
+}
+
+.nav-toggle {
+  @include link-colors(#ddd, $color-link-active, #ddd, #ddd);
+  font-size: 4em;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.site-nav {
+  a {
+    @include link-colors(#ddd, #999, #999, #ddd);
+  }
+}
+.site-nav a.selected {
+  color: $color-text;
+}
+
+

@@ -1,0 +1,26 @@
+body {
+  background-color: $color-page;
+  color: $color-text;
+}
+
+a {
+  @include link-colors($color-link, $color-link-hover, $color-link-active, $color-link-visited);
+}
+
+blockquote {
+  border-color: $color-border;
+  color: lighten($color-text, 10%);
+}
+
+#{headings()} {
+  color: darken($color-text, 20%);
+}
+
+.permalink {
+  @include link-colors($color-border, $color-link-hover, $color-link-active, $color-border);
+}
+
+
+@include at-breakpoint($desktop-layout) {
+
+}

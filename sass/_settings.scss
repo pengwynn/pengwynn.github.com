@@ -1,0 +1,52 @@
+//-----------------------------------------------------------
+// `Layout
+//-----------------------------------------------------------
+
+$column-width      : 60px;
+$gutter-width      : 40px;
+$grid-padding      : 20px;
+
+$container-style   : magic;
+$container-width   : 60em;
+
+$mobile-columns    : 12;
+$mobile-break      : 768px;
+
+$desktop-break     : 480px;
+$desktop-columns   : 12;
+$desktop-layout    : $mobile-break $desktop-columns;
+
+$wide-break        : 1366px;
+$wide-columns      : 15;
+$wide-layout       : $wide-break $wide-columns;
+
+$mobile-nav-height : 15em;
+
+//-----------------------------------------------------------
+// `Colors
+//-----------------------------------------------------------
+
+$color-ice-1 : #10467C;
+$color-ice-2 : #2F8BE3;
+$color-ice-3 : #C9F2FB;
+$color-ice-4 : #F3FBFD;
+$color-ice-5 : #fff;
+
+$color-border                : #ccc;
+$color-off-screen-background : #111;
+$color-page                  : #fff;
+$color-text                  : #444;
+$color-link                  : #333;
+$color-link-active           : #0772A1;
+$color-link-hover            : #0772A1;
+$color-link-visited          : #333;
+
+
+
+//-----------------------------------------------------------
+// `Fonts
+//-----------------------------------------------------------
+
+$face-sans  : 'Open Sans', serif;
+$face-serif : 'Bitter', serif;
+

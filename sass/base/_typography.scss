@@ -1,0 +1,165 @@
+@include establish-baseline;
+
+@font-face {
+  font-family: 'Entypo Social';
+  src: url(font-path('entypo-social.eot'));
+  src: url(font-path('entypo-social.eot') + '?#iefix') format('embedded-opentype'),
+       url(font-path('entypo-social.woff')) format('woff'),
+       url(font-path('entypo-social.ttf')) format('truetype'),
+       url(font-path('entypo-social.svg') + '#DroidSansRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: $face-serif;
+}
+
+dt {
+  font-weight: bold;
+}
+
+
+.site-footer {
+  @include adjust-font-size-to(14px);
+  color: lighten($color-text, 20%);
+  font-family: $face-sans;
+  text-align: center;
+  img {
+    vertical-align: middle;
+  }
+}
+
+.branding {
+  margin-top: 6em;
+}
+
+.lead {
+  line-height: 1.4em;
+  font-family: $face-sans;
+  font-size: 1.2em;
+  font-weight: 100;
+  margin: 2em 0;
+  a {
+    font-weight: 600;
+    text-decoration: none;
+  }
+  p {
+    margin-bottom: 0;
+  }
+
+}
+hr {
+  @include background-image(linear-gradient(left, rgba(#999, 0), rgba(#999, .75), rgba(#999, 0)));
+  border: 0;
+  height: 1px;
+  width:100%;
+  margin: 2em 0;
+}
+
+.social-links {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+.social-links li {
+  display: inline-block;
+  font-size: 2em;
+  text-align: center;
+}
+
+.social-links a {
+  font-family: 'Entypo Social', sans-serif;
+  font-size: 50px;
+  line-height: 50px;
+  height: 50px;
+  width: 50px;
+  text-decoration: none;
+  padding: 0 20px;
+}
+
+//-----------------------------------------------------------
+// `Headings
+//-----------------------------------------------------------
+
+h1 {
+  @include adjust-font-size-to(32px);
+  font-family: $face-sans;
+  font-weight: normal;
+  margin-top: 0;
+  word-wrap: break-word;
+  .stream & {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.5em;
+  }
+  .stream .linked-item & {
+    font-weight: normal;
+  }
+}
+
+#{headings(2,6)} {
+  @include adjust-font-size-to(20px);
+  font-family: $face-sans;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+h2.year{
+  border-bottom: solid 1px $color-border;
+  font-weight: bold;
+  padding-bottom: .5em;
+}
+
+//-----------------------------------------------------------
+// `Articles
+//-----------------------------------------------------------
+
+.permalink {
+  display: inline-block;
+  font-size: 32px;
+  margin: 0 0 0 8px;
+  position: absolute;
+  text-decoration: none;
+}
+
+p {
+  margin-top: 0;
+}
+
+.about-the-author {
+  @include padding-leader;
+}
+
+.external:after {
+  color: #ddd;
+  content: '\219D';
+  display: inline-block;
+  margin-left: .2em;
+}
+
+//-----------------------------------------------------------
+// `Archives
+//-----------------------------------------------------------
+.archives {
+  @include no-bullets;
+  padding: 0;
+  li {
+    @include trailer;
+  }
+}
+
+
+//**********************************************************
+
+//-----------------------------------------------------------
+// `Desktop typography
+//-----------------------------------------------------------
+
+@include at-breakpoint($desktop-layout) {
+
+  .lead {
+    font-size: 1.45em;
+  }
+}

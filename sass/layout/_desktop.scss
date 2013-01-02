@@ -1,0 +1,16 @@
+//-----------------------------------------------------------
+// `Desktop layout
+//-----------------------------------------------------------
+
+@include at-breakpoint($desktop-layout) {
+
+  .hide-on-mobile {
+    display: block;
+  }
+  .show-on-mobile {
+    display: none;
+  }
+
+
+}
+
