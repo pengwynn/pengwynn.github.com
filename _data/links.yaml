@@ -9,11 +9,6 @@
   url: "http://afreshcup.com/home/category/double-shot"
   token: "doubleshot"
 -
-  updated_at: "2010-03-20T12:37:05-05:00"
-  created_at: "2010-03-20T12:36:32-05:00"
-  url: "http://wynnnetherland.com/2010/03/twitter-gem-hits-0-9-0/"
-  token: "twitter090"
--
   updated_at: "2010-03-20T18:47:57-05:00"
   created_at: "2010-03-20T18:47:32-05:00"
   url: "http://comlounge.tv/databases"
@@ -53,11 +48,6 @@
   created_at: "2010-03-26T22:03:55-05:00"
   url: "http://twopular.com/labs/tweetMania"
   token: "a"
--
-  updated_at: "2010-03-27T19:04:17-05:00"
-  created_at: "2010-03-27T19:03:27-05:00"
-  url: "http://twitter.com/actingspace"
-  token: "spambot"
 -
   updated_at: "2010-03-30T10:12:44-05:00"
   created_at: "2010-03-30T10:12:14-05:00"
@@ -119,26 +109,6 @@
   url: "http://developer.appcelerator.com/blog/2010/04/iphone-os-4-0-announcement-and-our-commitment-to-you.html"
   token: "n"
 -
-  updated_at: "2010-04-08T21:30:16-05:00"
-  created_at: "2010-04-08T21:30:16-05:00"
-  url: "http://kids.netherland.name/2009/08/13/thank-you-charmin/"
-  token: "o"
--
-  updated_at: "2010-04-08T21:30:34-05:00"
-  created_at: "2010-04-08T21:30:34-05:00"
-  url: "http://kids.netherland.name/2010/04/07/pop-some-popcorn-round-up-the-kids-theres-a-movie-coming-on/"
-  token: "p"
--
-  updated_at: "2010-04-09T07:57:15-05:00"
-  created_at: "2010-04-09T07:57:15-05:00"
-  url: "http://blog.linkedin.com/2010/04/08/linkedin-ninja-job-title/"
-  token: "q"
--
-  updated_at: "2010-04-09T08:38:59-05:00"
-  created_at: "2010-04-09T08:38:59-05:00"
-  url: "http://api.twitter.com/1/users/profile_image/pengwynn"
-  token: "mug"
--
   updated_at: "2010-04-09T20:51:32-05:00"
   created_at: "2010-04-09T20:51:12-05:00"
   url: "http://blog.twitter.com/2010/04/twitter-for-iphone.html"
@@ -158,11 +128,6 @@
   created_at: "2010-04-10T21:44:05-05:00"
   url: "http://tomayko.com/writings/WhyNotMarkdown"
   token: "no-markdown"
--
-  updated_at: "2010-04-13T17:50:37-05:00"
-  created_at: "2010-04-13T17:49:40-05:00"
-  url: "http://gowalla.com/blog/2010/04/adding-events-to-gowalla/"
-  token: "gowalla-events"
 -
   updated_at: "2010-04-14T13:19:30-05:00"
   created_at: "2010-04-14T13:18:02-05:00"
@@ -1213,16 +1178,6 @@
   created_at: "2010-10-04T13:39:42-05:00"
   url: "http://remysharp.com/2010/10/04/websockets-in-phonegap-projects/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+remysharp+%28remy+sharp%27s+b%3Alog%29"
   token: "6s"
--
-  updated_at: "2010-10-04T14:16:21-05:00"
-  created_at: "2010-10-04T14:16:21-05:00"
-  url: "http://github.com/Maximosis/shitter"
-  token: "6t"
--
-  updated_at: "2010-10-04T15:27:19-05:00"
-  created_at: "2010-10-04T15:27:19-05:00"
-  url: "http://cl.ly/348456f38f56284e177b"
-  token: "6u"
 -
   updated_at: "2010-10-05T08:53:20-05:00"
   created_at: "2010-10-05T08:53:20-05:00"
@@ -3963,10 +3918,6 @@
   url: "http://orderedlist.github.com/minimal/"
   token: "n8"
 -
-  updated_at: "2012-04-23T16:08:11-05:00"
-  created_at: "2012-04-23T16:08:11-05:00"
-  token: "n9"
--
   updated_at: "2012-04-24T09:40:14-05:00"
   created_at: "2012-04-24T09:40:14-05:00"
   url: "http://blog.jerodsanto.net/2012/04/confessions-of-a-meteor-newb/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nomeanblog+%28Jerod+Santo%29"
@@ -4006,11 +3957,6 @@
   created_at: "2012-04-30T15:10:44-05:00"
   url: "https://github.com/pengwynn/octokit#show-a-user"
   token: "nh"
--
-  updated_at: "2012-04-30T16:05:58-05:00"
-  created_at: "2012-04-30T16:05:38-05:00"
-  url: "http://f.cl.ly/items/3w2l1N0z2e033O27223h/image001.jpg"
-  token: "fred"
 -
   updated_at: "2012-05-01T10:18:39-05:00"
   created_at: "2012-05-01T10:18:39-05:00"
@@ -4267,16 +4213,6 @@
   url: "http://twitter.com/JoshHelfferich/status/210809652714274817/photo/1"
   token: "oL"
 -
-  updated_at: "2012-06-07T21:16:36-05:00"
-  created_at: "2012-06-07T21:16:36-05:00"
-  url: "http://cl.ly/3Q0d1Y1f16140Q1f1B2Y"
-  token: "p1"
--
-  updated_at: "2012-06-08T15:56:46-05:00"
-  created_at: "2012-06-08T15:56:46-05:00"
-  url: "http://cl.ly/3B2s2Y180k323k3S0Y2r"
-  token: "p2"
--
   updated_at: "2012-06-11T10:07:10-05:00"
   created_at: "2012-06-11T10:07:10-05:00"
   url: "http://blog.spoongraphics.co.uk/articles/inspiring-typography-designs-based-on-cities-states"
@@ -4487,45 +4423,10 @@
   url: "http://www.hogbaysoftware.com/products/quickcursor/"
   token: "q8"
 -
-  updated_at: "2012-08-29T20:28:40-05:00"
-  created_at: "2012-08-29T20:28:40-05:00"
-  url: "https://github.com/pengwynn/octokit/commit/59d08a7a1cbf39da71d3b9b45891e3bf4a963c66"
-  token: "q9"
--
-  updated_at: "2012-09-04T11:27:53-05:00"
-  created_at: "2012-09-04T11:27:53-05:00"
-  url: "https://github.com/pengwynn/octokit/blob/master/spec/octokit/client/statuses_spec.rb"
-  token: "qa"
--
   updated_at: "2012-09-15T07:08:18-05:00"
   created_at: "2012-09-15T07:08:18-05:00"
   url: "https://speakerdeck.com/u/pengwynn/p/user-experience-patterns-for-apis"
   token: "qb"
--
-  updated_at: "2012-09-23T20:19:56-05:00"
-  created_at: "2012-09-23T20:19:56-05:00"
-  url: "http://theamazingios6maps.tumblr.com/"
-  token: "qc"
--
-  updated_at: "2012-09-25T09:31:07-05:00"
-  created_at: "2012-09-25T09:31:07-05:00"
-  url: "http://i.chzbgr.com/completestore/2011/11/14/cd75d947-fd2f-4ebc-b2ac-cab4cce21b4a.gif"
-  token: "qd"
--
-  updated_at: "2012-09-25T10:10:30-05:00"
-  created_at: "2012-09-25T10:10:30-05:00"
-  url: "https://mail.google.com/mail/u/0/?shva=1#starred/139ef55d4d20a12c"
-  token: "qe"
--
-  updated_at: "2012-09-25T10:24:10-05:00"
-  created_at: "2012-09-25T10:24:10-05:00"
-  url: "http://gh.hnresources.com/#pengwynn$%7B%22l%22:%22Shell%22,%22sorting%22:%22created%22,%22order%22:%22desc%22%7D"
-  token: "qf"
--
-  updated_at: "2012-09-25T10:24:46-05:00"
-  created_at: "2012-09-25T10:24:46-05:00"
-  url: "http://gh.hnresources.com/#pengwynn"
-  token: "qg"
 -
   updated_at: "2012-09-25T20:08:52-05:00"
   created_at: "2012-09-25T20:08:52-05:00"
@@ -4624,16 +4525,6 @@
   created_at: "2012-10-22T14:34:51-05:00"
   url: "https://github.com/nvie/pluck"
   token: "r1"
--
-  updated_at: "2012-11-21T12:46:56-06:00"
-  created_at: "2012-11-21T12:46:56-06:00"
-  url: "http://www.youtube.com/watch?feature=player_embedded&v=Jai_flUIC9Y"
-  token: "r2"
--
-  updated_at: "2012-11-24T17:57:17-06:00"
-  created_at: "2012-11-24T17:57:17-06:00"
-  url: "http://www.weedeater.com/products/trimmers/compare-trimmers/"
-  token: "r3"
 -
   updated_at: "2012-11-27T08:50:36-06:00"
   created_at: "2012-11-27T08:50:36-06:00"
@@ -4831,50 +4722,20 @@
   url: "http://www.railsinside.com/tutorials/487-how-to-score-your-rails-apps-complexity-before-refactoring.html"
   token: "s9"
 -
-  updated_at: "2013-04-09T11:45:45-05:00"
-  created_at: "2013-04-09T11:45:45-05:00"
-  url: "http://chart.apis.google.com/chart?chs=200x200&cht=qr&chld=|1&chl=https%3A%2F%2Ftwitter.com%2Fjcolman%2Fstatus%2F320917928881033218%2Fphoto%2F1"
-  token: "sa"
--
   updated_at: "2013-04-15T10:26:43-05:00"
   created_at: "2013-04-15T10:26:43-05:00"
   url: "http://wynnnetherland.com/journal/shipping-getting-thing-done"
   token: "sb"
--
-  updated_at: "2013-04-16T13:50:43-05:00"
-  created_at: "2013-04-16T13:50:43-05:00"
-  url: "https://groups.google.com/a/chromium.org/forum/m/?fromgroups#!forum/blink-dev"
-  token: "sc"
--
-  updated_at: "2013-06-03T09:18:41-05:00"
-  created_at: "2013-06-03T09:18:16-05:00"
-  url: "http://unotifi.com/pic_vehicles.php"
-  token: "tundra"
 -
   updated_at: "2013-06-05T08:24:20-05:00"
   created_at: "2013-06-05T08:24:20-05:00"
   url: "http://www.cloudtweaks.com/2013/06/how-amazon-brainwashed-us-all-and-joyent-too/"
   token: "se"
 -
-  updated_at: "2013-06-06T13:17:18-05:00"
-  created_at: "2013-06-06T13:16:49-05:00"
-  url: "http://belo.bimedia.net/WFAA/weather/animated-loops/comp/640x480/new_denton.gif"
-  token: "radar"
--
   updated_at: "2013-06-06T21:59:08-05:00"
   created_at: "2013-06-06T21:59:08-05:00"
   url: "http://www.businessinsider.com/22-maps-that-show-the-deepest-linguistic-conflicts-in-america-2013-6#these-exist-21"
   token: "sg"
--
-  updated_at: "2013-07-14T11:38:43-05:00"
-  created_at: "2013-07-14T11:38:16-05:00"
-  url: "http://belo.bimedia.net/WFAA/weather/animated-loops/ssite/640x480/dma.gif"
-  token: "radar2"
--
-  updated_at: "2013-07-15T21:32:13-05:00"
-  created_at: "2013-07-15T21:32:13-05:00"
-  url: "https://github.com/login/oauth/authorize?client_id=8dd9cbba650db739b44a&redirect_uri=https%3A%2F%2Fwww.catincan.com%2Fhybridauth%2Fendpoint%3Fhauth.done%3DGitHub&scope=user%3Aemail"
-  token: "si"
 -
   updated_at: "2013-07-24T16:09:50-05:00"
   created_at: "2013-07-24T16:09:50-05:00"
@@ -4905,11 +4766,6 @@
   created_at: "2013-09-08T13:01:44-05:00"
   url: "http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/"
   token: "sp"
--
-  updated_at: "2013-09-08T13:02:52-05:00"
-  created_at: "2013-09-08T13:02:52-05:00"
-  url: "https://www.google.com/search?q=blog.sanctum.geek.nz+tmux"
-  token: "sq"
 -
   updated_at: "2013-09-08T13:42:41-05:00"
   created_at: "2013-09-08T13:42:41-05:00"
