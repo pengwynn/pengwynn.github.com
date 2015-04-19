@@ -10,3 +10,4 @@ github_username:  pengwynn
 
 # Build settings
 markdown: kramdown
+permalink: /:title
